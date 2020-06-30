@@ -1,3 +1,5 @@
+# Tic-Tac-Toe info
+## [video link shows all possible outcomes](https://vimeo.com/433937647)
 /**
  * This represents a version of the game tic-tac-toe using a JFrame.
  * Nine activatable buttons where implemented. 

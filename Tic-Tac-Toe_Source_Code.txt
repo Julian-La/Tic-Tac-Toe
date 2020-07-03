@@ -12,7 +12,7 @@ import java.awt.event.*;
  * Side note: You can also recreate the game using a JPanel, shortening source code.
  * Exit button will be implemented soon.
  */
-public class TicTacToe extends JFrame{
+public class TicTacToe {
 
 	public static void main(String[] args) {
 		new TicTacToe();
